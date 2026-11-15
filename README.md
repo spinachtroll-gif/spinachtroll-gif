@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there, another soulless user of the internet. 
 
 <!--
 **spinachtroll-gif/spinachtroll-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
